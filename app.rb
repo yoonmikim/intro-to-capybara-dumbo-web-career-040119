@@ -10,3 +10,4 @@ class Application < Sinatra::Base
     erb :greet
   end
 end
+
